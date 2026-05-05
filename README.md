@@ -53,6 +53,3 @@ Users → Security Group (IT-Team) → Role Assignment → Azure Resources**
 ## 🔗 Repository Structure
 All screenshots are organized by feature for easy navigation.
 
----
-
-Just say yes and tell me what you want to add.
