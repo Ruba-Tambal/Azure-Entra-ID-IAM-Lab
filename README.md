@@ -45,7 +45,7 @@ Users → Security Group (IT-Team) → Role Assignment → Azure Resources**
 | Feature                    | Folder              | Description          |
 |---------------------------|---------------------|----------------------|
 | User Creation             | `/Users/`           | Steps 1 to 5         |
-| Group Creation            | `/Group/`           | Steps 1 to 4         |
+| Group Creation            | `/Resource Group/`  | Steps 1 to 4         |
 | Group Licensing           | `/Licence/`         | Steps 1 to 5         |
 | Self-Service Password Reset | `/SSPR/`          | Steps 1 to 9         |
 | RBAC Implementation       | `/RBAC/`            | Steps 1 to 6         |
